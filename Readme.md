@@ -1,6 +1,6 @@
 # 🧠 Git Mastery — 50 Hands-On Exercises
 
-A structured path to becoming a Git power user. Each directory contains a focused, real-world task with supporting materials. This is your lab. Dive in and get your hands dirty!
+This is my personal documentation of the git 50 day Challenge that I completed to master through hands-on practice. Working through these transformed my understanding from theory to real-world Git implementation.
 
 ---
 
