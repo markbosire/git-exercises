@@ -1,4 +1,4 @@
-# Git Interactive Rebase Tutorial
+# Git Interactive Rebase
 
 ## Setup Repository
 
